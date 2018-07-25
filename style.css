@@ -1,0 +1,63 @@
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  width: 20%;
+  float: left;
+}
+
+.menu {
+  width: 80%;
+  text-align: right;
+  float: left;
+}
+
+.menu ul {
+  list-style-type: none;
+}
+
+.menu ul li {
+float:right;
+margin: 0px 10px 0px 10px;
+}
+a {
+  color: #FFFFFF;
+}
+a:link {
+  text-decoration: none;
+}
+
+li:hover{
+  border-bottom: 2px solid #ED7D01;
+}
+
+.tytule {
+font-size: 25px
+}
+
+.tytule-yellow {
+font-weight: bold;
+color: #ED7D01;
+}
+
+
+
+.tytule {
+float:left;
+margin: 50px 10px 0px 10px;
+}
+
+div {
+  color: white;
+}
+
+
+
+.background {
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float:left;
+  width: 100%;
+  height: 100%;
+}
